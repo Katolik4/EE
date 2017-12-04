@@ -1,0 +1,27 @@
+QWidget {
+   background-color: #4ac3eb;
+}
+
+QWidget#BottomBar {
+   background-color: #000000;
+}
+
+QPushButton#piotr {
+   background-color: #ff0000;
+   color: #ffffff;
+   border-radius: 5px;
+   border-style: none;
+   height: 100px;
+   width: 100px;
+   max-width: 100px;
+}
+
+QPushButton#piotr:Checked {
+   background-color: #00ff00;
+   color: #000000;
+   border-radius: 5px;
+   border-style: none;
+   height: 100px;
+   width: 100px;
+   max-width: 100px;
+}
